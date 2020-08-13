@@ -1,0 +1,57 @@
+.title {
+    min-height: 100px;
+    font-size: 50px;
+    color: #1A1D45;
+}
+
+input[type="button"] {
+    min-width: 200px;
+    min-height: 100px;
+    font-size: 50px;
+    background-color: #009EFA;
+    color: whitesmoke;
+    border-color: #009EFA;
+    width: 100%;
+}
+
+input[id="operator"] {
+    min-width: 200px;
+    min-height: 100px;
+    font-size: 50px;
+    background-color: #1A1D45;
+    color: whitesmoke;
+    border-color: #1A1D45;
+    width: 100%;
+}
+
+input[id="clear"] {
+    min-width: 200px;
+    min-height: 100px;
+    font-size: 50px;
+    background-color: #ED1F17;
+    color: whitesmoke;
+    border-color: #ED1F17;
+    width: 100%;
+}
+
+input[id="calc"] {
+    min-width: 200px;
+    min-height: 100px;
+    font-size: 50px;
+    background-color: #F4BC2B;
+    color: whitesmoke;
+    border-color: #F4BC2B;
+    width: 100%;
+}
+
+
+input[type="text"] {
+    min-width: 200px;
+    min-height: 100px;
+    font-size: 50px;
+    border-radius: 15px;
+    text-align: right;
+    background-color: whitesmoke;
+    border-color: #1A1D45;
+    width: 100%
+}
